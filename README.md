@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Gedeon Tchibanvunya
+#  Hey, I'm Gedeon Tchibanvunya
 
 ### 🔐 Cybersecurity Student | Aspiring SOC Analyst & Penetration Tester
 
@@ -70,7 +70,7 @@ gedeon = {
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🐀 [Python RAT](https://github.com/GedeonTch) | Educational Remote Access Tool — shell, keylogger, screenshot, WiFi extraction | Python, Sockets |
-| 🔍 [TCP Scanner](https://github.com/GedeonTch/TCPScanner) | Port scanner with GitHub Actions CI | Python, NSE |
+| 🔍 [TCP Scanner]([https://github.com/gedeonRoom/TCPScanner.git]) | Port scanner with GitHub Actions CI | Python, NSE |
 | 🎓 [Student Manager](https://github.com/gedeonRoom/gestion-etudiants) | CLI CRUD app with Git workflow | Java, ArrayList |
 | 🌐 [ETCH Store](https://etch-store.vercel.app) | Trilingual e-commerce (FR/EN/SW) | Next.js, Tailwind, MySQL |
 
