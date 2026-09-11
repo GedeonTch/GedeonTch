@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Gedeon Tchibanvunya
+#  Hey, I'm Gedeon Tchibanvunya
 
 ### 🔐 Cybersecurity Student | Aspiring SOC Analyst & Penetration Tester
 
@@ -35,8 +35,8 @@ gedeon = {
 
 - 🔵 **Blue Team** → SOC Level 1 on TryHackMe
 - 🔴 **Red Team** → Jr Penetration Tester path
-- 📚 **Studying** → Cisco CyberOps Associate
-- 🛠️ **Building** → Offensive Python tools (educational)
+- 📚 **Studying** → Cisco CyberOps Associate, Windows Server administration, Wazuh (SIEM)
+- 🛠️ **Building** → [CyberForgeScan](https://github.com/GedeonTch/CyberForgeScan) & [SentinelX](https://github.com/GedeonTch/sentinelX) — Python security toolkits
 
 ---
 
@@ -56,10 +56,13 @@ gedeon = {
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-E34234?style=flat-square&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)
 
 ### 🖥️ Systems & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows11&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-000000?style=flat-square&logo=openssh&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -69,9 +72,9 @@ gedeon = {
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🐀 [Python RAT](https://github.com/GedeonTch) | Educational Remote Access Tool — shell, keylogger, screenshot, WiFi extraction | Python, Sockets |
-| 🔍 [TCP Scanner](https://github.com/GedeonTch/TCPScanner) | Port scanner with GitHub Actions CI | Python, NSE |
-| 🎓 [Student Manager](https://github.com/gedeonRoom/gestion-etudiants) | CLI CRUD app with Git workflow | Java, ArrayList |
+| 🛡️ [SentinelX](https://github.com/GedeonTch/sentinelX) | Cybersecurity toolkit for network security auditing & SOC fundamentals — discover, detect, assess, explain | Python |
+| 🧬 [MAYUNDO Malware Analysis](https://github.com/GedeonTch/MAYUNDO-MALWARE-ANALYSIS) | Analysis & cleanup of a real USB-spreading worm — IOCs, persistence, propagation, remediation | Python |
+| 🛠️ [CyberForgeScan](https://github.com/GedeonTch/CyberForgeScan) | Modular security toolkit — log analysis, password auditing, bruteforce awareness demo | Python |
 | 🌐 [ETCH Store](https://etch-store.vercel.app) | Trilingual e-commerce (FR/EN/SW) | Next.js, Tailwind, MySQL |
 
 ---
