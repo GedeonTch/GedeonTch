@@ -5,7 +5,7 @@
 ### 🔐 Cybersecurity Student | Aspiring SOC Analyst & Penetration Tester
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gedeon--tchibanvunya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gedeon-tchibanvunya)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-GedeonTch-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/GedeonTch)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-GedeonTch-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/cibanG)
 [![GitHub](https://img.shields.io/badge/GitHub-GedeonTch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GedeonTch)
 
 📍 Bujumbura, Burundi | 🎓 ULBU — Informatique de Gestion
@@ -33,8 +33,8 @@ gedeon = {
 
 ## 🎯 Current Focus
 
-- 🔵 **Blue Team** → SOC Level 1 on TryHackMe
-- 🔴 **Red Team** → Jr Penetration Tester path
+- 🔵 **Blue Team** → SOC Adventure on TryHackMe, Blue Team Security,Cendri, Let's Defender
+- 🔴 **Red Team** → Jr Penetration Tester path on Hack the Box, Root Me
 - 📚 **Studying** → Cisco CyberOps Associate, Windows Server administration, Wazuh (SIEM)
 - 🛠️ **Building** → [CyberForgeScan](https://github.com/GedeonTch/CyberForgeScan) & [SentinelX](https://github.com/GedeonTch/sentinelX) — Python security toolkits
 
@@ -86,6 +86,8 @@ gedeon = {
 | 🏅 | Networking Basics | Cisco Networking Academy | Jun 2026 |
 | 🔄 | SOC Level 1 *(in progress)* | TryHackMe | 2026 |
 | 🔄 | CyberOps Associate *(in progress)* | Cisco | 2026 |
+|    | Ethical hacker | Cisco netacade | 2026 |
+|    | Network analysis with Wireshark && Tcpdump | centri.og | 2026 |
 
 ---
 
@@ -107,7 +109,7 @@ gedeon = {
 
 <div align="center">
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/GedeonTch.png)](https://tryhackme.com/p/GedeonTch)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/GedeonTch.png)](https://tryhackme.com/p/cibanG)
 
 </div>
 
@@ -117,11 +119,12 @@ gedeon = {
 
 ```
 ✅ Cisco Networking Basics         (Jun 2026)
+🔄 LABS every day                  (In progress)
 🔄 Cisco Cybersecurity Principles  (in progress)
-🔄 TryHackMe SOC Level 1           (in progress)
+🔄 TryHackMe                       (in progress)
 ⏳ Root-Me Challenges              (upcoming)
-⏳ TryHackMe Jr Pentester          (upcoming)
-⏳ HackTheBox Starting Point       (upcoming)
+✅ Centri security Blue Team       (In progress)
+🔄 HackTheBox Starting Point       (in progress)
 ⏳ Cisco CyberOps Associate        (upcoming)
 ```
 
@@ -143,6 +146,6 @@ gedeon = {
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=GedeonTch.GedeonTch)
 
-*"Every expert was once a beginner. Keep hacking, keep learning."* 🔐
+*"Every expert was once a beginner. Keep hacking,keep secure, keep learning."* 🔐
 
 </div>
