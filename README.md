@@ -8,7 +8,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-GedeonTch-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/cibanG)
 [![GitHub](https://img.shields.io/badge/GitHub-GedeonTch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GedeonTch)
 
-📍 Bujumbura, Burundi | 🎓 ULBU — Informatique de Gestion
+📍 Bujumbura, Burundi | 🎓 ULBU — Computer and Management
 
 </div>
 
@@ -22,7 +22,7 @@ gedeon = {
     "goals"     : ["SOC Analyst", "Penetration Tester"],
     "location"  : "Bujumbura, Burundi 🇧🇮",
     "learning"  : ["TryHackMe", "Root-Me", "Cisco NetAcad"],
-    "languages" : ["Python", "Bash", "Java", "SQL"],
+    "languages" : ["Python", "Bash", "C/C++", "SQL"],
     "hobbies"   : ["CTF", "Network Recon", "Building tools"],
 }
 ```
@@ -37,6 +37,8 @@ gedeon = {
 - 🔴 **Red Team** → Jr Penetration Tester path on Hack the Box, Root Me
 - 📚 **Studying** → Cisco CyberOps Associate, Windows Server administration, Wazuh (SIEM)
 - 🛠️ **Building** → [CyberForgeScan](https://github.com/GedeonTch/CyberForgeScan) & [SentinelX](https://github.com/GedeonTch/sentinelX) — Python security toolkits
+- 🔵 **Blue Team Labs** [BlueTeam_Content](https://github.com/GedeonTch/Blue-Team-Labs)
+- 🔴 **Red Team Labs** [RedTeam_Content](https://github.com/GedeonTch/Red-Team-Labs)
 
 ---
 
@@ -68,7 +70,7 @@ gedeon = {
 
 ---
 
-## 📂 Featured Projects
+## 📂 Top Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -86,8 +88,8 @@ gedeon = {
 | 🏅 | Networking Basics | Cisco Networking Academy | Jun 2026 |
 | 🔄 | SOC Level 1 *(in progress)* | TryHackMe | 2026 |
 | 🔄 | CyberOps Associate *(in progress)* | Cisco | 2026 |
-|    | Ethical hacker | Cisco netacade | 2026 |
-|    | Network analysis with Wireshark && Tcpdump | centri.og | 2026 |
+| ✅  | Ethical hacker | Cisco netacad | 2026 |
+| ✅ | Network analysis with Wireshark && Tcpdump | centri.og | 2026 |
 
 ---
 
